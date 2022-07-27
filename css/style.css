@@ -1,0 +1,31 @@
+body{
+    background-image: url(../img/bg.jpg);
+    
+    background-size: cover;
+    font-family: Segoe Script;
+    color: #Fff;    
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+a{
+    color: #ffff;  
+}
+.ic{
+    width: 120px;
+    height: 80px;
+}
+.ico{
+    width: 25px;
+    height: 15px;
+    
+}
+.block{
+    margin-left: 8%;
+    width: 300px;
+    display: inline-block;
+    font-size: 20px;
+}
