@@ -1,0 +1,14 @@
+body{
+    background-image: url(../img/bg.jpg);
+    text-transform: uppercase;
+    font-family: Ravie;
+    color: green;
+}
+h1{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    margin-left: 5%;
+    margin-top: 3%;
+}

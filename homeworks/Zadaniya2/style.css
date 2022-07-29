@@ -1,0 +1,35 @@
+body{
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+    color:white;
+    font-family: Edwardian Script ITC;
+}
+
+.myphoto{
+    width: 15%;
+    height: 15%;
+}
+p{
+    font-size: 30px;
+    border-left: 2px white solid;
+    padding-left: 10px;
+}
+.st{
+    margin: 1.5%;
+    width: 30%;
+    height: 30%;
+}
+button{
+    border-radius: 50px;
+    margin-left: 10px;
+}
+.bt{
+    width: 30px;
+    height: 30px;
+    background-size: cover;
+    
+}
+span{
+    font-size: 30px;
+    margin-left: 15%;
+}
